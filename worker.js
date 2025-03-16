@@ -198,7 +198,7 @@ async function handleRequest(request) {
           `📈 **بالاترین:** ${bestSell} تومان\n` +
           `📉 **کمترین:** ${bestBuy} تومان\n` +
           `📊 **روند:** ${trend}\n\n` +
-          `[👨‍💻 ساخته شده توسط aminiyt](https://t.me/asrnovin_ir)`;
+          `[👨‍💻 ساخته شده توسط Arterycode](https://t.me/Artery_code)`;
         await sendTelegramMessage(chat_id, response_text, {
           disable_web_page_preview: true,
           parse_mode: "Markdown"
