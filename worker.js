@@ -1,3 +1,5 @@
+//https://t.m/Artery_code
+
 // توکن ربات تلگرام خود را اینجا قرار دهید.
 const BOT_TOKEN = '';
 
